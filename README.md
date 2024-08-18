@@ -1,10 +1,21 @@
-- 👋 Hi, I’m @deepak3210
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning web devlopment
-- 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me 
+👋 Hi, I’m @deepak3210
+💻 Frontend Developer | React.js Enthusiast
 
-<!---
-deepak3210/deepak3210 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👀 I’m interested in:
+
+Building intuitive web applications
+Exploring new frontend technologies
+Collaborating with other developers
+🌱 Currently learning:
+
+Advanced React concepts
+Modern web development tools and practices
+💞️ Looking to collaborate on:
+
+Open source projects
+Frontend development challenges
+Innovative web solutions
+📫 How to reach me:
+
+LinkedIn: linkedin.com/in/deepak3210
+Email: deepak.dt321@gmail.com
